@@ -1,11 +1,3 @@
-/**
-	Navik - HTML header navigation menu - v1.4.2
- 	Copyright (c) 2020, Pophonic
-	
-	Author: Pophonic
-	Profile: https://codecanyon.net/user/pophonic
-	
-**/
 
 
 jQuery(document).ready(function() {

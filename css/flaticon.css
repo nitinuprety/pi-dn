@@ -1,7 +1,4 @@
-	/*
-  	Flaticon icon font: Flaticon
-  	Creation date: 18/12/2020 10:47
-  	*/
+
 
 @font-face {
   font-family: "Flaticon";
@@ -196,3 +193,4 @@
 .flaticon-zoom:before { content: "\f1a2"; }
 .flaticon-layers-1:before { content: "\f1a3"; }
 .flaticon-layers:before { content: "\f1a4"; }
+.flaticon-whatsapp:before { content: "\f11a"; }
