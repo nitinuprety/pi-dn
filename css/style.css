@@ -911,6 +911,22 @@ ul.txt-list {
 .coffee-color .yellow-color,
 .yellow-color span { color: #f7be27; }
 
+
+.theme-color,
+.theme-color h2, 
+.theme-color h3, 
+.theme-color h4, 
+.theme-color h5, 
+.theme-color h6, 
+.theme-color p, 
+.theme-color a, 
+.theme-color li,
+.theme-color i, 
+.white-color .theme-color,
+.brown-color .theme-color,
+.coffee-color .theme-color,
+.theme-color span { color: #db2029; }
+
 /*------------------------------------------*/
 /*  TEXT SHADOW
 /*------------------------------------------*/ 
